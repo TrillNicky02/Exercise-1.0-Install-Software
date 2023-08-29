@@ -37,16 +37,16 @@ The final state of this file should be as follows (replacing my information with
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Nicholas Victor
 
 ## My gamedev.stackexchange.com user number is:
-5338
+173896
 
 ## My github username is:
-BL-MSCH-C220
+TrillNicky02
 
 ## My replit username is:
-BL-MSCH-C220
+nivictor
 
 ## I have installed the software on my computer as a part of the exercise
 ```
